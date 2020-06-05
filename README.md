@@ -4,12 +4,11 @@ This project focuses on best practices of object-oriented programming, AWS AI Se
 
 ## Table of Contents
 
-1. [Software Engineering Practices Pt I](#)
-2. [Software Engineering Practices Pt II](#)
-3. [Introduction to Object-Oriented Programming](#)
-4. [Machine Learning with AWS DeepComposer](#)
+1. [aws machine learning scholarship quiz answers](#se1)
+2. [Software Engineering Practices Pt II](#se2)
+3. [Introduction to Object-Oriented Programming](#ioop)
+4. [Machine Learning with AWS DeepComposer](#mlaws)
  
-
  
 ## Installation
 
@@ -73,6 +72,16 @@ This will open the iPython Notebook software and project file in your browser.
 [How to version control your production machine learning models](https://algorithmia.com/blog/how-to-version-control-your-production-machine-learning-models)
 
 [Versioning Data Science Solutions](https://medium.com/hashmapinc/versioning-data-science-solutions-28c8e7d47cd1)
+
+## Test Driven Development for Data Science
+
+[Data Science and Test Driven Development](https://www.linkedin.com/pulse/data-science-test-driven-development-sam-savage/)
+
+[Test-Driven Development for Data Science](http://engineering.pivotal.io/post/test-driven-development-for-data-science/)
+
+[Test Driven Development is essential for good data science](https://medium.com/uk-hydrographic-office/test-driven-development-is-essential-for-good-data-science-heres-why-db7975a03a44)
+
+[Testing Your Code](https://docs.python-guide.org/writing/tests/)
 
 
 ## License
