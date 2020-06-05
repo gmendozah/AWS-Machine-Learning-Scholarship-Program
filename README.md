@@ -29,7 +29,19 @@ Python 3 is required to run the files within this repository.
 
 
 ## Run
+In a terminal or command window, navigate to the top-level project directory `Data-Structures-and-Algorithms/` (that contains this README) and run the following command:
 
+```bash
+jupyter notebook jupyter_notebook.ipynb
+```
+
+or
+```bash
+jupyter notebook jupyter_notebook.ipynb
+```
+
+on any Jupyter Notebook.
+This will open the iPython Notebook software and project file in your browser.
 
 
 ## Additional Resources
