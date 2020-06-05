@@ -11,6 +11,22 @@
 ## Installation
 
 
+### Anaconda :fire:
+
+The Anaconda distribution is free to install and can be downloaded using:
+
+[https://www.anaconda.com/download/](https://www.anaconda.com/download/)
+
+Based on your operating system, installation instructions are available online:
+
+- [Installing on macOS](https://docs.anaconda.com/anaconda/install/mac-os/)
+- [Installing on Linux](https://docs.anaconda.com/anaconda/install/linux/)
+- [Installing on Windows](https://docs.anaconda.com/anaconda/install/windows/)
+
+### Python 3 :snake:
+
+Python 3 is required to run the files within this repository.
+
 
 ## Run
 
