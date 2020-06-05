@@ -1,5 +1,6 @@
 # AWS Machine Learning Scholarship Program
 
+This project focuses on best practices of object-oriented programming, AWS AI Services, AWS DeepLens, AWS DeepRacer, and AWS DeepComposer.
 
 ## Table of Contents
 
