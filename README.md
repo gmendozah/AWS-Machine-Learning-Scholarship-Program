@@ -4,13 +4,14 @@ This project focuses on best practices of object-oriented programming, AWS AI Se
 
 ## Table of Contents
 
-1. [Software Engineering Practices Pt I]()
-2. [Software Engineering Practices Pt II]()
-3. [Introduction to Object-Oriented Programming]()
-4. [Machine Learning with AWS DeepComposer]()
+1. [Software Engineering Practices Pt I](#)
+2. [Software Engineering Practices Pt II](#)
+3. [Introduction to Object-Oriented Programming](#)
+4. [Machine Learning with AWS DeepComposer](#)
+ 
+
  
 ## Installation
-
 
 ### :fire: Anaconda
 
@@ -51,6 +52,8 @@ This will open the iPython Notebook software and project file in your browser.
 
 [NumPy Docstring Guide](https://numpydoc.readthedocs.io/en/latest/format.html)
 
+[How do I create some kind of table of content in GitHub wiki?](https://stackoverflow.com/questions/18244417/how-do-i-create-some-kind-of-table-of-content-in-github-wiki)
+
 
 ## Examples on documentation
 
@@ -61,6 +64,16 @@ This will open the iPython Notebook software and project file in your browser.
 [Scikit-learn](https://github.com/scikit-learn/scikit-learn)
 
 [Stack Overflow Blog](https://github.com/jjrunner/stackoverflow)
+
+
+## Version Control
+
+[A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/)
+
+[How to version control your production machine learning models](https://algorithmia.com/blog/how-to-version-control-your-production-machine-learning-models)
+
+[Versioning Data Science Solutions](https://medium.com/hashmapinc/versioning-data-science-solutions-28c8e7d47cd1)
+
 
 ## License
 
