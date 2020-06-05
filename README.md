@@ -3,7 +3,11 @@
 
 ## Table of Contents
 
-
+1. [Software Engineering Practices Pt I]()
+2. [Software Engineering Practices Pt II]()
+3. [Introduction to Object-Oriented Programming]()
+4. [Machine Learning with AWS DeepComposer]()
+ 
 ## Installation
 
 
