@@ -83,6 +83,11 @@ This will open the iPython Notebook software and project file in your browser.
 
 [Testing Your Code](https://docs.python-guide.org/writing/tests/)
 
+## Code Reviews
+
+[Code Review](https://github.com/lyst/MakingLyst/tree/master/code-reviews)
+
+[Code Review Best Practices](https://www.kevinlondon.com/2015/05/05/code-review-best-practices.html)
 
 ## License
 
