@@ -89,6 +89,16 @@ This will open the iPython Notebook software and project file in your browser.
 
 [Code Review Best Practices](https://www.kevinlondon.com/2015/05/05/code-review-best-practices.html)
 
+## Advanced OOP Topics
+
+[Python's Instance, Class, and Static Methods Demystified](https://realpython.com/instance-class-and-static-methods-demystified/)
+
+[Class and Instance Attributes](https://www.python-course.eu/python3_class_and_instance_attributes.php)
+
+[Mixins for Fun and Profit](https://easyaspython.com/mixins-for-fun-and-profit-cb9962760556)
+
+[Primer on Python Decorators](https://realpython.com/primer-on-python-decorators/)
+
 ## License
 
 This project uses the [MIT](https://choosealicense.com/licenses/mit/) License.
