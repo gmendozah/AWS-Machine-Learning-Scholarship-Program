@@ -99,6 +99,17 @@ This will open the iPython Notebook software and project file in your browser.
 
 [Primer on Python Decorators](https://realpython.com/primer-on-python-decorators/)
 
+## Explore Generative AI Further
+
+[Create compositions using sample models in music studio](https://console.aws.amazon.com/deepcomposer/home?region=us-east-1#musicStudio)
+
+[Inspect the training of existing sample models](https://console.aws.amazon.com/deepcomposer/home?region=us-east-1#modelList)
+
+[Train your own model within the AWS DeepComposer console](https://console.aws.amazon.com/deepcomposer/home?region=us-east-1#trainModel)
+
+[Build your own GAN model](https://github.com/aws-samples/aws-deepcomposer-samples)
+
+
 ## License
 
 This project uses the [MIT](https://choosealicense.com/licenses/mit/) License.
