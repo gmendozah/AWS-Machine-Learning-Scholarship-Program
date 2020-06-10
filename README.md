@@ -89,6 +89,10 @@ This will open the iPython Notebook software and project file in your browser.
 
 [Code Review Best Practices](https://www.kevinlondon.com/2015/05/05/code-review-best-practices.html)
 
+## OOP topics
+
+[Python - public, private and protected Access Modifiers](https://www.tutorialsteacher.com/python/private-and-protected-access-modifiers-in-python)
+
 ## Advanced OOP Topics
 
 [Python's Instance, Class, and Static Methods Demystified](https://realpython.com/instance-class-and-static-methods-demystified/)
